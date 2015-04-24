@@ -3,7 +3,7 @@
 ## needed again.
 
 ## makeCacheMatrix is a list of four functions to set/get a matrix 
-## or it's inverse into cache
+## or its inverse into cache
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
